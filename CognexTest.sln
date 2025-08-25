@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognexTest", "CognexTest\CognexTest.csproj", "{AF84C7F1-0AA1-4AAD-B121-DAB6AFA3F367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF84C7F1-0AA1-4AAD-B121-DAB6AFA3F367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF84C7F1-0AA1-4AAD-B121-DAB6AFA3F367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF84C7F1-0AA1-4AAD-B121-DAB6AFA3F367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF84C7F1-0AA1-4AAD-B121-DAB6AFA3F367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
